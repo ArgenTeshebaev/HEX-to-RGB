@@ -4,8 +4,8 @@
 
 ### Screens:
 #### White theme
-[alt text](Screens/demo 1.png)
-[alt text](Screens/demo 2.png)
+![alt text](Screens/demo%201.png)
+[alt text](Screens/demo%202.png)
 #### Dark theme
 [alt text](Screens/demo 3.png)
 [alt text](Screens/demo 4.png)
